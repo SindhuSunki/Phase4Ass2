@@ -1,0 +1,9 @@
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\bin\Debug\nunit.framework.dll
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\bin\Debug\nunit.framework.xml
+D:\Phase4\Day3\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
